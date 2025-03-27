@@ -4,7 +4,6 @@
 **Phone**: (204) 555-0198  
 **Version**: 1.0  
 **Written by**: Success Ibe 
-**Approved by**: Mr Felix Jiang
 **Date**: 03/25/2025  
 
 ---
