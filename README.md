@@ -4,12 +4,12 @@
 **Phone**: (204) 555-0198  
 **Version**: 1.0  
 **Written by**: Success Ibe 
-**Approved by**: Mr Felix 
+**Approved by**: Mr Felix Jiang
 **Date**: 03/25/2025  
 
 ---
 
-## Purpose  
+## Objectives 
 This SOP states the standard procedure for the configuration and preparation of the Windows Server 2025. This would be deployed in a Lab or production environment. This SOP ensures the server is installed with necessary roles, security and networking configurations setup for optimal performance and manageability.
 
 ---
@@ -39,6 +39,16 @@ This document applies to IT administrators, system engineers, and network techni
 | Supervisor        | Reviews the setup and signs off              |
 
 ---
+
+
+## Reversion Table  
+
+| Version | Date       | Author        | Changes Made                 |
+|---------|------------|----------------|-----------------------------|
+| 1.0     | 03/25/2025 | Alex Johnson  | Initial SOP creation         |
+
+---
+
 
 ## Procedure Steps  
 
@@ -88,6 +98,14 @@ Before starting, make sure you have:
 | ISO Download for Windows Server 2025| Official Microsoft Volume Licensing Center |
 | Windows Admin Center                | Optional GUI-based admin tool              |
 | sconfig Tool Guide                  | Built-in server configuration utility      |
+
+
+## Approval Table  
+
+| Name           | Title                    | Signature     | Date Approved |
+|----------------|---------------------------|----------------|----------------|
+| Success Ibe    | SOP Writer (Student)      | ____CSI_______ | 03/25/2025     |
+| Mr Felix Jiang | IT Supervisor/Instructor  | ______________ | 03/25/2025     |
 
 ---
 
