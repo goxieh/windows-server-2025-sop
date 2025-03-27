@@ -1,10 +1,10 @@
 # Standard Operating Procedure  
-**Company Name**: NexaTech IT Solutions  
-**Company Address**: 45 Pembina Drive, Winnipeg, MB, R3C 1A5  
+**Company Name**: MITT solutions  
+**Company Address**: 130 Henlow Bay , Winnipeg  
 **Phone**: (204) 555-0198  
 **Version**: 1.0  
-**Written by**: Alexix Drews  
-**Approved by**: Sam Lee  
+**Written by**: Success Ibe 
+**Approved by**: Mr Felix 
 **Date**: 03/25/2025  
 
 ---
