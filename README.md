@@ -44,8 +44,8 @@ This document applies to IT administrators, system engineers, and network techni
 ## Reversion Table  
 
 | Version | Date       | Author        | Changes Made                 |
-|---------|------------|----------------|-----------------------------|
-| 1.0     | 03/25/2025 | Alex Johnson  | Initial SOP creation         |
+|---------|------------|---------------|-----------------------------|
+| 1.0     | 03/25/2025 | Success Ibe   | Initial SOP creation         |
 
 ---
 
